@@ -79,7 +79,7 @@ private void OnCollisionEnter(Collision other)
 
 #### Реализация графического интерфейса с добавлением счетчика очков.
 
-Всё в том же скрипте EnergyShield добавил функционал, для отображения очков.
+Всё в том же [скрипте EnergyShield](https://github.com/S1GARETA/Dragon_Picker/blob/main/DragonPicker/Assets/_Scripts/EnergyShield.cs) добавил функционал, для отображения очков.
 
 ```cs
 using UnityEngine;
